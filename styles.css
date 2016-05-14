@@ -13,11 +13,10 @@ body {
 
 h3 {
     font-size: 2em;
-    margin: 0;
+    margin: 0 0 .25em 0;
 }
 
 .description {
-    padding: 0;
     padding: .5em .75em;
     margin-top: .75em;
 }
@@ -29,8 +28,7 @@ h3 {
 }
 
 p,ul {
-    margin: .5em 0;
-    padding: 0;
+  margin-bottom: 0;
 }
 
 ul {
@@ -39,6 +37,7 @@ ul {
 
 .fun-fact,li {
     font-style: italic;
+    margin-top: 0;
 }
 
 .key {
